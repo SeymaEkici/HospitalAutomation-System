@@ -105,10 +105,9 @@ public class Main {
 
     private static void identifyUser() {
         System.out.println("Enter the user name: ");
-        userName = input.nextLine();
-        input.nextLine();
+        userName = input.next();
         System.out.println("Enter the password: ");
-        userPassword = input.nextLine();
+        userPassword = input.next();
         isAdmin(userName, userPassword);
     }
 
