@@ -95,8 +95,6 @@ public class Main {
             }
         }
 
-
-
     }
 
     private  static void initializeData() {
@@ -126,7 +124,6 @@ public class Main {
 
             }
         }
-
     }
 
     public static boolean bookAppointment(){
@@ -279,6 +276,4 @@ public class Main {
             System.out.println("Doctor: " + doctor.getName() + " - Availability Count: " + doctor.getAvailabilityCount());
         }
     }
-
 }
-
