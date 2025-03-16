@@ -87,4 +87,4 @@ Contributors
 License
 -------
 
-This project is licensed under the MIT License.
+This project is open-source and free to use for educational and personal purposes.
