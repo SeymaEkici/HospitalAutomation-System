@@ -44,7 +44,7 @@ How to Run
 1.  Clone the repository:
 
     ```
-    git clone <[repository_url](https://github.com/SeymaEkici/HospitalAutomation-System.git)>
+    git clone https://github.com/SeymaEkici/HospitalAutomation-System.git
 
     ```
 
@@ -82,7 +82,7 @@ Future Improvements
 Contributors
 ------------
 
--   **Your Name** (Replace with actual contributors)
+-   **Şeyma Ekici**
 
 License
 -------
