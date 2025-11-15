@@ -88,3 +88,7 @@ License
 -------
 
 This project is open-source and free to use for educational and personal purposes.
+
+
+
+#TODO java -cp ".;C:\Program Files\PostgreSQL\18\lib\postgresql-42.7.3.jar" Main
